@@ -2,3 +2,6 @@ spring:
   profiles: dev     #开发环境
   application: 
     name: microservicecloud-config-lss-dev
+config:
+  info: dev-ceshi-info,age=1
+
